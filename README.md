@@ -52,4 +52,4 @@ This project is designed to facilitate hospital operations such as adding patien
 
 
 ---
-Let me know if you need further improvements! 🚀
+Please don't hesitate to let me know if this application needs further improvements! 🚀
